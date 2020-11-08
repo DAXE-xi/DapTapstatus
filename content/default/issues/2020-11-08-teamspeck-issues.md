@@ -13,4 +13,4 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-Issues discovered with setting up ne teamspeak server’s
+Issues discovered with setting up new teamspeak server’s
