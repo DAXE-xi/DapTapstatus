@@ -6,6 +6,8 @@ params:
     systems normal operation, incidents that may happen and their resolution.
   systems:
     - name: "Game Panel "
+    - name: Game Servers
+    - name: "Website "
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
