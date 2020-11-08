@@ -8,6 +8,9 @@ params:
     - name: "Game Panel "
     - name: Game Servers
     - name: "Website "
+    - name: VPS
+    - name: APIs
+    - name: Main servers
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
