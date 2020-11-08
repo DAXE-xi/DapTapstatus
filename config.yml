@@ -14,8 +14,7 @@ params:
   disqusShortname: null
   timezoneString: " UTC"
   logo: ""
-  description_header: "DapTap server want to make sure you and us can keep up to
-    date on issues with our service "
+  description_header: ""
   copyrightHolder: DapTap
   eventsPerPage: 10
   iconType: image/png
