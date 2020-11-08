@@ -13,4 +13,4 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-There was a issue discovered with TS SERVER
+Issues discovered with setting up ne teamspeak server’s
