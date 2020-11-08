@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "Maintenance "
+title: "Service update "
 date: 2020-11-22T04:40:13.186Z
 status: scheduled
 pinned: null
@@ -11,5 +11,6 @@ resolved_on: 2020-11-08T18:42:13.197Z
 affected:
   - Website
 twitterFeed: ""
-enableComments: true
+enableComments: false
 ---
+This is planned maintenance this maintenance will updates all programs and software and also fix some issues
