@@ -2,8 +2,7 @@ title: "DapTap Status "
 languageCode: en
 params:
   shortDateFormat: 15:04 — Jan 2
-  meta_description: This status page provides updated information about our
-    systems normal operation, incidents that may happen and their resolution.
+  meta_description: ""
   systems:
     - name: "Game Panel "
     - name: Game Servers
