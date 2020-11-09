@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Service Update
-date: 2020-11-09T04:19:55.034Z
+date: 2020-11-10T03:19:55.034Z
 status: scheduled
 pinned: null
 current_severity: maintenance
