@@ -18,5 +18,7 @@ params:
   copyrightHolder: DapTap
   eventsPerPage: 10
   iconType: image/png
+  groups:
+    - SERVERS
   icon: /images/clearstatus.png
   description_footer: ""
