@@ -16,4 +16,4 @@ affected:
 twitterFeed: ""
 enableComments: false
 ---
-This is planned maintenance this maintenance will updates all programs and software and also fix some issues
+This is planned maintenance this maintenance will updates all programs and software and also fix some issues all services will be affected
