@@ -5,6 +5,7 @@ params:
   meta_description: ""
   systems:
     - name: "Game Panel "
+      description: "This is the Game Server panel where you manger "
     - name: Game Servers
     - name: "Website "
     - name: VPS
