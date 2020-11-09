@@ -14,4 +14,4 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-This is a update to the game Panel and it services
+This is a update to the game Panel and it services THIS WILL NOT AFFECTED RUNING SERVICES this will only affect the Panel and SFTP
