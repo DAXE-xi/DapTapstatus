@@ -3,7 +3,7 @@ section: issue
 title: "VPS INSTALLATION "
 date: 2020-11-09T03:00:05.749Z
 status: in_progress
-pinned: ""
+pinned: belowheader
 current_severity: down
 max_severity: down
 duration: ""
