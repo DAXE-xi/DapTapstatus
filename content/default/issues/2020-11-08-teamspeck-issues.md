@@ -5,7 +5,7 @@ date: 2020-11-08T18:54:43.133Z
 status: in_progress
 pinned: ""
 current_severity: ok
-max_severity: ok
+max_severity: monitoring
 duration: ""
 resolved_on: 2020-11-08T18:54:43.150Z
 affected:
