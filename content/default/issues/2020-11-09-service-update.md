@@ -3,7 +3,7 @@ section: issue
 title: Service Update
 date: 2020-11-09T04:19:55.034Z
 status: scheduled
-pinned: belowheader
+pinned: null
 current_severity: maintenance
 max_severity: maintenance
 duration: 20m
