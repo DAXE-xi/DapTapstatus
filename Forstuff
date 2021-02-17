@@ -1,3 +1,0 @@
-
-
-cd /etc/pterodactyl && sudo wings configure --panel-url https://panel.daptap.net --token wZdIsu1K95hLgnPzBWDUHa5QWWViUJHXkYPD1B4KMCD3S3AT --node 5
